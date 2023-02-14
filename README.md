@@ -1,4 +1,4 @@
-### Namaste developers,
+### Namaste hackers,
 
 I identify myself as `hacker` because its cool 😎.
 
