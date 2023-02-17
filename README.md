@@ -1,6 +1,6 @@
 ### Namaste hackers,
 
-I identify myself as `hacker` because its cool 😎.
+I identify myself as `hacker`.
 
 I work professionally as a `Full-Stack Web Application Developer`.
 
