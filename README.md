@@ -1,6 +1,6 @@
 ### Namaste hackers,
 
-I identify myself as `hacker`.
+I identify myself as `hacker`, my pronoun is White-Hat.
 
 I work professionally as a `Full-Stack Web Application Developer`.
 
