@@ -17,6 +17,8 @@ GitHub Streak             |  Rituraj's GitHub stats
 :-------------------------:|:-------------------------:
  [![GitHub Streak](https://streak-stats.demolab.com?user=rituraj00&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Rituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj00&count_private=true&theme=transparent)
 
+ <p><a href="https://www.twitter.com/rajritu001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rituraj001/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
+
 
 
  
