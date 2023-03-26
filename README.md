@@ -11,3 +11,4 @@ I work professionally as a `Full-Stack Cross-Platform Application Developer`.
 - I joke on [Twitter](https://twitter.com/rajritu001) like Elon but only about the dev stuff and I do not joke on [LinkedIn](https://www.linkedin.com/in/rituraj001/).
 - `#LearnInPublic`
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rituraj00)](https://git.io/streak-stats)
