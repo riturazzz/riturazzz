@@ -1,21 +1,17 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rituraj00&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-### Namaste hackers,
+### Namaste!,
 
-I identify myself as hacker, my pronoun is 'the one who will not hack someone's social media for you'.
+Collaborative, Competitive, Curious.
 
-I work professionally as a `Full-Stack Cross-Platform Application Developer`.
+I work professionally as a Full-Stack Web App Developer.
 
-- Majorly, I write code in C#, Python, Go, TypeScript, JavaScript.
-- I am aware with working of many frameworks mostly ASP.NET Core, Angular10+, React.JS, Node.JS, Django, Flask, Jest, xUnit, Express.JS, Next.JS, Angular.JS. 
-- My prompt skills are good as I frequently play with new AI tools like ChatGPT.
-- Science & Tech content creation. 
-- I have worked professionally on multiple web applicaton projects from where I got the opportunity to work with the team of Senior Developer having years of experience in engineering scalable systems which are used concurrently by hundreds-thousands of users all over the world.
-- I have gotten hands-on experience in the trinity Frontend <-> Backend <-> DevOps, thanks to my employer and I am grateful.
-- Recently, started contributing in Open Source projects and preparing to start one open source project of my own too. 
-- I joke on [Twitter](https://twitter.com/rajritu001) like Elon but only about the dev stuff and I do not joke on [LinkedIn](https://www.linkedin.com/in/rituraj001/).
-- `#LearnInPublic`
-
+- Majorly, I write code in C#, Python, Go, TypeScript, JavaScript,SQL.
+- I have worked professionally on web application projects and got the opportunity to work in the team of Senior Developer having years of experience in engineering scalable systems which are used concurrently by hundreds and thousands of users all over the world.
+- I have gotten hands-on experience with Frontend <-> Backend <-> DevOps for which I am grateful to my current employer.
+Recently I found about Open-Source Contribution, and I am grateful that I did because I have learnt more about software engineering from OSC than anything else I ever tried.
+- I joke on Twitter like Elon but only about the dev stuff but I do not joke on LinkedIn.
+#LearnInPublic
 -----------
 
 GitHub Streak             |  Rituraj's GitHub stats
