@@ -2,16 +2,20 @@
 
 ### Namaste!,
 
-Collaborative, Competitive, Curious.
+Chaos -> Clarity
 
-I work professionally as a Full-Stack Web App Developer.
+Software developer exploring Data Science.
 
-- Majorly, I write code in C#, Python, Go, TypeScript, JavaScript,SQL.
-- I have worked professionally on web application projects and got the opportunity to work in the team of Senior Developer having years of experience in engineering scalable systems which are used concurrently by hundreds and thousands of users all over the world.
-- I have gotten hands-on experience with Frontend <-> Backend <-> DevOps for which I am grateful to my current employer.
-Recently I found about Open-Source Contribution, and I am grateful that I did because I have learnt more about software engineering from OSC than anything else I ever tried.
-- I joke on Twitter like Elon but only about the dev stuff but I do not joke on LinkedIn.
-#LearnInPublic
+- Greetings! I am an experienced Software Developer with a strong foundation in web application development and an insatiable curiosity for the world of data science. 
+- My skill set encompasses a wide range of technologies, including SQL, Python, AWS / Azure, web scraping, Pandas, data visualizations, Excel/Sheets, Angular, JS/TS, and C#.
+- Throughout my career, I have delivered impactful solutions as a web applications developer, creating dynamic and user-friendly interfaces that enhance user experiences. 
+- However, my journey has led me to explore the fascinating realm of data science, where I have been relentlessly acquiring new skills and knowledge. 
+- I thrive on uncovering meaningful insights hidden within complex datasets and leveraging them to drive informed decision-making.
+- As a driven professional, I am continuously seeking opportunities to further develop my expertise and contribute to data-driven projects that make a real impact. 
+- I am adept at collaborating with cross-functional teams and leveraging my analytical and development skills to deliver practical solutions.
+- If you are looking for an analytical problem solver with a strong technical acumen and a passion for data science, let's connect! 
+- I am excited to embark on new challenges and contribute to cutting-edge projects that leverage the power of data to drive innovation and success.
+
 -----------
 
 GitHub Streak             |  Rituraj's GitHub stats
