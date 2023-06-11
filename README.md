@@ -1,20 +1,21 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rituraj00&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
-### Namaste!,
+## Namaste!
 
-Chaos -> Clarity
+- A full stack web developer with around 2 years of experience in creating responsive, user-friendly, and high-performance web applications using most popular as well as trending technologies. 
+- I have expertise in frontend technologies such as React and Angular, backend technologies such as Node.js and ASP.NET Core, relational databases such as SQL Server, PostgreSQL, and SQLite, document based databases such as MongoDB, and cloud platforms such as AWS and Azure. 
+- My effective interpersonal skills helped me understand the client’s requirements easily and help them find most feasible solutions for them.  
 
-Software developer exploring Data Science.
-
-- Greetings! I am an experienced Software Developer with a strong foundation in web application development and an insatiable curiosity for the world of data science. 
-- My skill set encompasses a wide range of technologies, including SQL, Python, AWS / Azure, web scraping, Pandas, data visualizations, Excel/Sheets, Angular, JS/TS, and C#.
-- Throughout my career, I have delivered impactful solutions as a web applications developer, creating dynamic and user-friendly interfaces that enhance user experiences. 
-- However, my journey has led me to explore the fascinating realm of data science, where I have been relentlessly acquiring new skills and knowledge. 
-- I thrive on uncovering meaningful insights hidden within complex datasets and leveraging them to drive informed decision-making.
-- As a driven professional, I am continuously seeking opportunities to further develop my expertise and contribute to data-driven projects that make a real impact. 
-- I am adept at collaborating with cross-functional teams and leveraging my analytical and development skills to deliver practical solutions.
-- If you are looking for an analytical problem solver with a strong technical acumen and a passion for data science, let's connect! 
-- I am excited to embark on new challenges and contribute to cutting-edge projects that leverage the power of data to drive innovation and success.
+Some of my notable achievements include: 
+  - Improving website loading speed by 25% by minifying JavaScript files and reducing bundle size.
+  - Developing 25+ reports by writing optimized SQL queries and increasing execution speed by average 15-20%.
+  - Writing unit tests and end-to-end tests for various test-cases using Jest, Chai, Karma, Jasmine and xUnit.
+  - Collaborating with senior developers and designers using agile methodologies and tools such as Git, GitHub, Slack, and Jira.
+  - Passionate about creating awesome applications and tools that solve real-world problems and provide value to the users. 
+  - Always eager to learn new skills and technologies to enhance my web development capabilities. 
+  - I enjoy solving complex problems and delivering high-quality solutions that meet the needs and expectations of the clients and users. 
+  - A team player who values communication, feedback, and collaboration.
+  - Looking for new opportunities to join a software product company that values innovation, creativity, and excellence. I am confident that I can bring my skills, experience, and enthusiasm to any web development project and contribute to the success of the company.
 
 -----------
 
