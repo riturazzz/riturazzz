@@ -2,20 +2,20 @@
 
 ## Namaste!
 
-- A full stack web developer with around 2 years of experience in creating responsive, user-friendly, and high-performance web applications using most popular as well as trending technologies. 
+- A full stack web developer 2+ years of experience in creating responsive, user-friendly, and high-performance web applications using most popular as well as trending technologies. 
 - I have expertise in frontend technologies such as React and Angular, backend technologies such as Node.js and ASP.NET Core, relational databases such as SQL Server, PostgreSQL, and SQLite, document based databases such as MongoDB, and cloud platforms such as AWS and Azure. 
-- My effective interpersonal skills helped me understand the client’s requirements easily and help them find most feasible solutions for them.  
+- My effective interpersonal skills helped me understand the client’s requirements easily and help them find most feasible solutions for them. 
 
 Some of my notable achievements include: 
-  - Improving website loading speed by 25% by minifying JavaScript files and reducing bundle size.
-  - Developing 25+ reports by writing optimized SQL queries and increasing execution speed by average 15-20%.
-  - Writing unit tests and end-to-end tests for various test-cases using Jest, Chai, Karma, Jasmine and xUnit.
-  - Collaborating with senior developers and designers using agile methodologies and tools such as Git, GitHub, Slack, and Jira.
-  - Passionate about creating awesome applications and tools that solve real-world problems and provide value to the users. 
-  - Always eager to learn new skills and technologies to enhance my web development capabilities. 
-  - I enjoy solving complex problems and delivering high-quality solutions that meet the needs and expectations of the clients and users. 
-  - A team player who values communication, feedback, and collaboration.
-  - Looking for new opportunities to join a software product company that values innovation, creativity, and excellence. I am confident that I can bring my skills, experience, and enthusiasm to any web development project and contribute to the success of the company.
+ - Improving website loading speed by third by minifying JavaScript files and reducing bundle size.
+ - Developing 20+ reports by writing optimized SQL queries and increasing execution speed by average 30%.
+ - Writing unit tests and end-to-end tests for various test-cases using Jest, Chai, Karma, Jasmine and xUnit.
+ - Collaborating with senior developers and designers using agile methodologies and tools such as Git, GitHub, Slack, and Jira.
+ - Passionate about creating awesome applications and tools that solve real-world problems and provide value to the users. 
+ - Always eager to learn new skills and technologies to enhance my web development capabilities. 
+ - I enjoy solving complex problems and delivering high-quality solutions that meet the needs and expectations of the clients and users. 
+ - A team player who values communication, feedback, and collaboration.
+ - Looking for new opportunities to join a software product company that values innovation, creativity, and excellence. I am confident that I can bring my skills, experience, and enthusiasm to any web development project and contribute to the success of the company.
 
 -----------
 
