@@ -1,5 +1,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rituraj00&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
 
+<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/b75d2c6b-87d0-4d03-90ca-0d03da9a9e16" alt="Holopin Level0 Badge" />
+
 ## Namaste!
 
 - A full stack web developer 2+ years of experience in creating responsive, user-friendly, and high-performance web applications using most popular as well as trending technologies. 
