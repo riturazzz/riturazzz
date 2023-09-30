@@ -7,22 +7,11 @@
 <img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
 
 
-## Namaste!
+Full Stack Web Developer with more than 2 years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript/TypeScript, and Python.
 
-- A full stack web developer 2+ years of experience in creating responsive, user-friendly, and high-performance web applications using most popular as well as trending technologies. 
-- I have expertise in frontend technologies such as React and Angular, backend technologies such as Node.js and ASP.NET Core, relational databases such as SQL Server, PostgreSQL, and SQLite, document based databases such as MongoDB, and cloud platforms such as AWS and Azure. 
-- My effective interpersonal skills helped me understand the client’s requirements easily and help them find most feasible solutions for them. 
+My passion for coding is matched by my dedication to delivering high-quality results to clients. I am always eager to embrace new challenges and learn new technologies. My goal is to create efficient, scalable, and user-friendly web applications that meet the needs of users and exceed client expectations.
 
-Some of my notable achievements include: 
- - Improving website loading speed by third by minifying JavaScript files and reducing bundle size.
- - Developing 20+ reports by writing optimized SQL queries and increasing execution speed by average 30%.
- - Writing unit tests and end-to-end tests for various test-cases using Jest, Chai, Karma, Jasmine and xUnit.
- - Collaborating with senior developers and designers using agile methodologies and tools such as Git, GitHub, Slack, and Jira.
- - Passionate about creating awesome applications and tools that solve real-world problems and provide value to the users. 
- - Always eager to learn new skills and technologies to enhance my web development capabilities. 
- - I enjoy solving complex problems and delivering high-quality solutions that meet the needs and expectations of the clients and users. 
- - A team player who values communication, feedback, and collaboration.
- - Looking for new opportunities to join a software product company that values innovation, creativity, and excellence. I am confident that I can bring my skills, experience, and enthusiasm to any web development project and contribute to the success of the company.
+Open to exciting opportunities and collaborations that will allow me to leverage my skills while also learning and growing in this ever-evolving field.
 
 -----------
 
