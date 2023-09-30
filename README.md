@@ -4,6 +4,8 @@
 
 <img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/901ad902-9f3f-417a-8c98-5f02b277efdf" alt="Digital Ocean Badge" />
 
+<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
+
 
 ## Namaste!
 
