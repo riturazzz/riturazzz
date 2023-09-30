@@ -8,7 +8,7 @@
 
 ## Namaste!
 
-Full Stack Web Developer with more than 2 years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript/TypeScript, and Python.
+I am a full stack web developer with more than 2 years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript/TypeScript, and Python.
 
 My passion for coding is matched by my dedication to delivering high-quality results to clients. I am always eager to embrace new challenges and learn new technologies. My goal is to create efficient, scalable, and user-friendly web applications that meet the needs of users and exceed client expectations.
 
