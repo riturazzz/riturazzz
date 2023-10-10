@@ -13,6 +13,10 @@ Open to exciting opportunities and collaborations that will allow me to leverage
 <img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
 
 
+![rituraj00's Stats](https://github-readme-stats.vercel.app/api?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![rituraj00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rituraj00&theme=tokyonight&hide_border=false) ![rituraj00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
+
 
 
 
