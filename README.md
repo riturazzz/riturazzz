@@ -1,4 +1,12 @@
 <a href="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU"><img src="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU" style="width: 100%; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+<table>
+  <tr>
+    <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
+    <td valign="top"><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /></td>
+   <td valign="top"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj00&theme=tokyonight&hide_border=false" /></td>
+  </tr>
+</table>
  
 I am a full-stack web developer with 2+ years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript, TypeScript, Python, Java.
 
@@ -11,9 +19,6 @@ Open to exciting opportunities and collaborations that will allow me to leverage
 <img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/901ad902-9f3f-417a-8c98-5f02b277efdf" alt="Digital Ocean Badge" />
 
 <img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
-
-
-![rituraj00's Stats](https://github-readme-stats.vercel.app/api?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![rituraj00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) ![rituraj00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rituraj00&theme=tokyonight&hide_border=false)
 
 
 
