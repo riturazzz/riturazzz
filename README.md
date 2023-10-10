@@ -1,7 +1,5 @@
 <a href="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU"><img src="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU" style="width: 100%; max-width: 100%; height: auto" title="Click for the larger version." /></a>
  
-## <greeting> Hello World </greeting>
-
 I am a full-stack web developer with 2+ years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript, TypeScript, Python, Java.
 
 In addition to my web development skills, I also have a strong background in SQL and data analysis. I have created numerous reports that have driven data-driven decision-making. For instance, I developed a custom SQL report that improved data retrieval times by almost 30%, enhancing the efficiency of analysis. I worked on 20+ reports which showed data from various KPIs in a summarized way, which was helpful for the stakeholders in making better business decisions. I understand the importance of minimalist approach while creating dashboards and to show only the highest value metrics and KPIs.
