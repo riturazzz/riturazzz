@@ -1,9 +1,5 @@
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=rituraj00&label=Profile%20views&color=0e75b6&style=flat" alt="apgapg" /> </p>
+<a href="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU"><img src="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU" style="width: 100%; max-width: 100%; height: auto" title="Click for the larger version." /></a>
  
-<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/901ad902-9f3f-417a-8c98-5f02b277efdf" alt="Digital Ocean Badge" />
-
-<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
-
 ## <greeting> Hello World </greeting>
 
 I am a full-stack web developer with 2+ years of professional experience and a proven track record in freelance projects. Specialized in all aspects of web development, including design, performance optimization, and support. Proficient in a diverse tech stack that includes ASP.NET Core, Node.js, Angular, React, and languages such as C#, JavaScript, TypeScript, Python, Java.
@@ -13,6 +9,10 @@ In addition to my web development skills, I also have a strong background in SQL
 My passion for coding is matched by my dedication to delivering high-quality results to clients. I am always eager to embrace new challenges and learn new technologies. My goal is to create efficient, scalable, and user-friendly web applications that meet the needs of users and exceed client expectations.
 
 Open to exciting opportunities and collaborations that will allow me to leverage my skills while also learning and growing in this ever-evolving field.
+
+<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/901ad902-9f3f-417a-8c98-5f02b277efdf" alt="Digital Ocean Badge" />
+
+<img width="150px" src="https://github.com/rituraj00/rituraj00/assets/77140528/068a9cca-85ba-462f-870b-6b73b28b7762" alt="IILA Cloud Badge" />
 
 
 
