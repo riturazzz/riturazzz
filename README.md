@@ -1,5 +1,3 @@
-<a href="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU"><img src="https://drive.google.com/uc?export=view&id=1AR4HKRvB7JKgsomGWcMGnwwhTVAi3zBU" style="width: 100%; max-width: 100%; height: auto" title="Click for the larger version." /></a>
-
 <table>
   <tr>
     <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
