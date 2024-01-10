@@ -2,7 +2,7 @@
   <tr>
     <td valign="top"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /></td>
     <td valign="top"><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /></td>
-   <td valign="top"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj00&theme=tokyonight&hide_border=false" /></td>
+<!--    <td valign="top"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj00&theme=tokyonight&hide_border=false" /></td> -->
   </tr>
 </table>
  
