@@ -1,1 +1,1 @@
-![rituraj00’ Github Metrics](https://github.com/rituraj00/rituraj00/blob/main/github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
