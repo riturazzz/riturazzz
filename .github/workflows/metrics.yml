@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: rituraj00
+          user: meme-machine-00
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: Asia/Kolkata
@@ -33,7 +33,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_forks: no
           repositories_affiliations: owner
-          repositories_skipped: rituraj00/rituraj00
+          repositories_skipped: meme-machine-00/rituraj00
 
           # The isocalendar plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
           plugin_isocalendar: no
