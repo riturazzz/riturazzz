@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: meme-machine-00
+          user: riturazzz
           template: classic
           config_gemoji: yes # use additional non-unicode emoji
           config_timezone: Asia/Kolkata
